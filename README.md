@@ -1,4 +1,4 @@
-# Ej.Students-Classrooms-Courses
+# Ejercicio 1: Students Classrooms Courses
 
 ---
 title: Order example
