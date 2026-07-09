@@ -27,3 +27,9 @@ erDiagram
 
 ## Tabla normalizada: 3FN
 <img width="603" height="137" alt="image" src="https://github.com/user-attachments/assets/fa6d3734-be69-4723-919c-700778979bbe" />
+
+## Diagrama ER (de Chen)
+<img width="335" height="291" alt="image" src="https://github.com/user-attachments/assets/d8d4221c-1e3a-4d23-b18e-8a7a2d2b3a0c" />
+
+## Diagrama UML (Database Schema - Patas de gallo)
+<img width="376" height="254" alt="image" src="https://github.com/user-attachments/assets/b6df19d2-f391-4ecb-846c-bc665a23b29e" />
